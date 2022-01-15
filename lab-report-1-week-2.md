@@ -1,4 +1,6 @@
-Lab Report for Week 2
+Lab Report for [Week 2](https://ucsd-cse15l-w22.github.io/week/week2/#setting-up-a-web-page)\
+The stuff displayed below is practice from [Week 1 ](https://ucsd-cse15l-w22.github.io/week/week1/)\
+Here is the [course site](https://ucsd-cse15l-w22.github.io/)
 1. Install Visual Studio Code.\
 ![](https://github.com/AveryJI/cse15l-lab-reports/blob/main/vsCode.png)
 2. Remotely connect to ieng\
