@@ -1,6 +1,6 @@
 # Lab Report 5
 
-*  - First I stored the results of tests in results.txt file for each implementation. 
+*   - First I stored the results of tests in results.txt file for each implementation. 
 
         ![output from the given implementation](resultFile.png)
         ![output from my own implementation](myReusultFile.png)
@@ -17,7 +17,7 @@
 
         ![](vimTxt.png)
 
-*    - One of the different outputs is in line 866. This test is stored in 489.md file. The correct output is "[]" which is given by the provided implementation.
+*   - One of the different outputs is in line 866. This test is stored in 489.md file. The correct output is "[]" which is given by the provided implementation.
 
         ![](firstOutput.png)
 
