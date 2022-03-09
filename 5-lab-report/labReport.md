@@ -19,24 +19,22 @@
         ![](vimTxt.png)
 
 *
-    - 
-        1. One of the different outputs is in line 866. This test is stored in 489.md file. The correct output is "[]" which is given by the provided implementation.
+    - One of the different outputs is in line 866. This test is stored in 489.md file. The correct output is "[]" which is given by the provided implementation.
 
-            ![](firstOutput.png)
+        ![](firstOutput.png)
 
-        2. My own code gave the incorrect output. The bug is that it doesn't check if there is any "/n" in the content of the url. Any url containing "/n" should be considered invalid. The code should be fixed is circled in red.
+        My own code gave the incorrect output. The bug is that it doesn't check if there is any "/n" in the content of the url. Any url containing "/n" should be considered invalid. The code should be fixed is circled in red.
 
-            ![](fix1.png)
+        ![](fix1.png)
 
       
 
-    - 
-        1. Another one of the different outputs is in line 880 vs. 882. This test is stored in 495.md file. The different line number here is the result of the different output in line 866 as showed in the previous example. The correct output is "foo(and(bar))" which is given by the provided implementation.
+    - Another one of the different outputs is in line 880 vs. 882. This test is stored in 495.md file. The different line number here is the result of the different output in line 866 as showed in the previous example. The correct output is "foo(and(bar))" which is given by the provided implementation.
 
-            ![](secondOutput.png)
+        ![](secondOutput.png)
 
-        2. My own code gave the incorrect output. The bug is that it doesn't check if the url contains any ")". It seekes the first ")" and treat it as the mark of the end of the url. The code should be fixed is circled in red .
+        My own code gave the incorrect output. The bug is that it doesn't check if the url contains any ")". It seekes the first ")" and treat it as the mark of the end of the url. The code should be fixed is circled in red .
 
-            ![](fix2.png)
+        ![](fix2.png)
 
         
