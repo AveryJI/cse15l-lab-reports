@@ -24,7 +24,6 @@
         My own code gave the incorrect output. The bug is that it doesn't check if there is any "/n" in the content of the url. Any url containing "/n" should be considered invalid. The code should be fixed is circled in red.
 
         ![](fix1.png)
-
     - Another one of the different outputs is in line 880 vs. 882. This test is stored in 495.md file. The different line number here is the result of the different output in line 866 as showed in the previous example. The correct output is "foo(and(bar))" which is given by the provided implementation.
 
         ![](secondOutput.png)
