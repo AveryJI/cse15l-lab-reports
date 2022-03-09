@@ -14,7 +14,7 @@
 
         ![](script.png)
 
-    - To make find the lines in the result.txt files more easily, I copied and pasted the content in each result.txt file into a new local text file opened in Visual Studio Code.
+    - To make finding the lines in the result.txt files more easily, I copied and pasted the content in each result.txt file into a new local text file opened in Visual Studio Code.
 
         ![](vimTxt.png)
 
