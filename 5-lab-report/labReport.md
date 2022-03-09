@@ -27,8 +27,6 @@
 
         ![](fix1.png)
 
-      
-
     - Another one of the different outputs is in line 880 vs. 882. This test is stored in 495.md file. The different line number here is the result of the different output in line 866 as showed in the previous example. The correct output is "foo(and(bar))" which is given by the provided implementation.
 
         ![](secondOutput.png)
@@ -36,5 +34,3 @@
         My own code gave the incorrect output. The bug is that it doesn't check if the url contains any ")". It seekes the first ")" and treat it as the mark of the end of the url. The code should be fixed is circled in red .
 
         ![](fix2.png)
-
-        
